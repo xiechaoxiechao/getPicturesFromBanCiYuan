@@ -32,7 +32,6 @@ getThePicturesFrombanciyuan #爬取半次元的绘画以及cos的图片#
 
 它的格式为https://bcy.net/apiv3/common/getFeeds?refer=channel&direction=loadmore&cid=xxxxxxxxxx&_signature=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-它的get参数中传递了你的cid，还有半次元给你分配的签名signature，
 
 将这个链接复制粘贴到index.js的requestUrl中保存
 
